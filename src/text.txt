@@ -1,0 +1,20 @@
+/app
+  /components
+    /sections
+      HeroSection.jsx
+      AboutSection.jsx
+      BenefitsSection.jsx
+      PortfolioSection.jsx
+      OffersSection.jsx
+      ContactSection.jsx
+    /ui
+      Preloader.jsx
+      Navbar.jsx
+      ProjectModal.jsx
+      BackToTop.jsx
+      Footer.jsx
+      SectionWrapper.jsx
+  /hooks
+    useTheme.js
+    useScrollTop.js
+  page.js
